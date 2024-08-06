@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shaghxyegh
-- 👀 I’m interested in biomedical system and learning new languages.
+- 👀
 - 🌱 I’m currently learning scrum and Deutsch.
 -    languages: Persian, English, Deutsch 
 - 📫 How to reach me : shaghxyegh@gmail.com 
