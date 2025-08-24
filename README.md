@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @shaghxyegh
-- 👀
 -    languages: Persian, English, Deutsch 
 - 📫 How to reach me : shaghxyegh@gmail.com 
 
